@@ -8,8 +8,8 @@
 <h3>Heres what I consider myself to be very proficient in:</h3>
   
 <p>
-  <img src="https://github.com/DensityDestiny/DensityDestiny/blob/main/Images/Python-Dark.svg" alt="css3" width="60" height="60"/>
-  <img src="https://github.com/DensityDestiny/DensityDestiny/blob/main/Images/Java-Dark.svg" alt="css3" width="60" height="60"/>
-  <img src="https://github.com/DensityDestiny/DensityDestiny/blob/main/Images/Godot-Dark.svg" alt="css3" width="60" height="60"/>
-  <img src="https://github.com/DensityDestiny/DensityDestiny/blob/main/Images/Asesprite.svg" alt="css3" width="60" height="60"/>
+  <img src="https://github.com/DensityDestiny/DensityDestiny/blob/main/Images/Python-Dark.svg" alt="css3" width="60" height="60" style="pointer-events: none;"/>
+  <img src="https://github.com/DensityDestiny/DensityDestiny/blob/main/Images/Java-Dark.svg" alt="css3" width="60" height="60" style="pointer-events: none;"/>
+  <img src="https://github.com/DensityDestiny/DensityDestiny/blob/main/Images/Godot-Dark.svg" alt="css3" width="60" height="60" style="pointer-events: none;"/>
+  <img src="https://github.com/DensityDestiny/DensityDestiny/blob/main/Images/Asesprite.svg" alt="css3" width="60" height="60" style="pointer-events: none;"/>
 </p>
